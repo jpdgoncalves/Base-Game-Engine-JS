@@ -20,6 +20,8 @@ canvas {
     margin: auto;
     /* background-color: black; */
     background-color: transparent;
+    image-rendering: pixelated;
+    image-rendering: optimizeSpeed;
 }
 
 canvas.fit-height {
