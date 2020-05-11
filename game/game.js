@@ -1,10 +1,9 @@
+MH.scope(() => {
 
-console.log(engine);
 
-async function test() {
 
-    
+    console.log(MH.module("engine"));
 
-}
 
-test();
+
+});
