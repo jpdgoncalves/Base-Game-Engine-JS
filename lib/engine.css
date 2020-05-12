@@ -11,6 +11,40 @@ body {
     /* background-color: aliceblue; */
 }
 
+/*
+
+Containers CSS
+This is used to wrap elements used in a container and isolate them from other
+HTML elements.
+
+*/
+
+div.container {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+div.container.absolute {
+    position: absolute;
+    background-color: cornflowerblue;
+}
+
+div.container.relative {
+    position: relative;
+    background-color: blueviolet;
+}
+
+/*
+
+Canvas Layers Manager CSS.
+This is used to style canvas into elements that regardless of the height and width of the screen
+They always keep their aspect ratio
+
+*/
+
 canvas {
     position: absolute;
     top: 0;
