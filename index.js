@@ -3,6 +3,7 @@
 //
 MH.import(
     "lib/engine.js",
+    "lib/html.js",
     "lib/loaders.js",
     "lib/layers.js",
     "lib/sprites.js",
