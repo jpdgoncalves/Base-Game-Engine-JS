@@ -10,7 +10,8 @@ MH.import(
     "lib/events.js",
     "lib/data.js",
     "lib/audio.js",
-    "lib/ui.js"
+    "lib/ui.js",
+    "lib/index.js"
 );
 
 //
