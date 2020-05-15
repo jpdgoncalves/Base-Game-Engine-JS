@@ -11,7 +11,7 @@ MH.import(
     "lib/data.js",
     "lib/audio.js",
     "lib/ui.js",
-    "lib/index.js"
+    "lib/input.js"
 );
 
 //
