@@ -29,12 +29,12 @@ div.container {
 
 div.container.absolute {
     position: absolute;
-    background-color: cornflowerblue; 
+    /* background-color: cornflowerblue;  */
 }
 
 div.container.relative {
     position: relative;
-    background-color: blueviolet;
+    /* background-color: blueviolet; */
 }
 
 /*
