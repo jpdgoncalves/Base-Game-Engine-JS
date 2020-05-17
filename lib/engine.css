@@ -52,8 +52,8 @@ canvas {
     left: 0;
     right: 0;
     margin: auto;
-    background-color: black;
-    /* background-color: transparent; */
+    /* background-color: black; */
+    background-color: transparent;
     image-rendering: pixelated;
     image-rendering: optimizeSpeed;
 }
